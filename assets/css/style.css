@@ -1,0 +1,27 @@
+html {
+    font-family: atkinson-hyperlegible-next, sans-serif;
+}
+
+body {
+    /* font-family: atkinson-hyperlegible-next, sans-serif;
+    background-color: #f0f0f0; */
+}
+h1 {
+   /* color:black); */
+}
+
+.acronym-list {
+    list-style: none; /* Removes bullet points */
+    padding: 0;       /* Removes default left padding */
+    margin: 0;        /* Removes default top/bottom margin (optional) */
+  }
+  
+  .acronym-list li {
+    margin-left: 0;   /* Removes any potential inherited left margin */
+    margin-bottom: 0.5em; /* Adds a little space between list items (optional) */
+  }
+  
+  .acronym-list h3{
+      margin-top: 0;
+      margin-bottom: 0.5em;
+  }
