@@ -5,4 +5,4 @@ The site tracks a few general disabilities bills and environment bills as well, 
 
 The linked Google documents have machine generated transcripts inline, and links to view video recordings with precise timestamps for start and end of the relevant sections of the legislative sessions to help save time for viewers.
 
-To view the website, visit [https://github.com/adamlogan/adamlogan.github.io](https://github.com/adamlogan/adamlogan.github.io)
+To view the website, visit [adamlogan.github.io/](https://adamlogan.github.io/)
